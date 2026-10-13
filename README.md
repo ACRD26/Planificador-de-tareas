@@ -33,17 +33,6 @@ Filtrar tareas por estado.
 Guardar las tareas en el navegador mediante localStorage.
 
 
-*Estructura del proyecto
-
-planificador-tareas/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── README.md
-
-
 *Estado del proyecto
 
 En desarrollo.
